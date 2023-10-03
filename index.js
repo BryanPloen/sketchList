@@ -1,8 +1,8 @@
 document.addEventListener("DOMContentLoaded", function() {
     const sketchList = [
-      { name: "Sketch 1", url: "sketch1/index.html" },
+      { name: "Random Points", url: "sketch1/index.html" },
       { name: "HSLuv Color Generator", url: "hsluvColorGenerator/index.html" },
-      { name: "Sketch 3", url: "sketch2/index.html" },
+      { name: "Procedural Geometric Grid", url: "ProceduralGeometricGrid/index.html" },
       
 
       // Add more sketches here
