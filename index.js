@@ -2,6 +2,15 @@ document.addEventListener("DOMContentLoaded", function() {
     const sketchList = [
       { name: "Sketch 1", url: "sketch1/index.html" },
       { name: "Sketch 2", url: "sketch2/index.html" },
+      { name: "Sketch 3", url: "sketch2/index.html" },
+      { name: "Sketch 4", url: "sketch2/index.html" },
+      { name: "Sketch 5", url: "sketch2/index.html" },
+      { name: "Sketch 6", url: "sketch2/index.html" },
+      { name: "Sketch 7", url: "sketch2/index.html" },
+      { name: "Sketch 2", url: "sketch2/index.html" },
+      { name: "Sketch 2", url: "sketch2/index.html" },
+      { name: "Sketch 2", url: "sketch2/index.html" },
+      { name: "Sketch 1", url: "sketch1/index.html" },
       { name: "Sketch 2", url: "sketch2/index.html" },
       { name: "Sketch 2", url: "sketch2/index.html" },
       { name: "Sketch 2", url: "sketch2/index.html" },
@@ -10,7 +19,18 @@ document.addEventListener("DOMContentLoaded", function() {
       { name: "Sketch 2", url: "sketch2/index.html" },
       { name: "Sketch 2", url: "sketch2/index.html" },
       { name: "Sketch 2", url: "sketch2/index.html" },
-      
+      { name: "Sketch 2", url: "sketch2/index.html" },
+      { name: "Sketch 1", url: "sketch1/index.html" },
+      { name: "Sketch 2", url: "sketch2/index.html" },
+      { name: "Sketch 2", url: "sketch2/index.html" },
+      { name: "Sketch 2", url: "sketch2/index.html" },
+      { name: "Sketch 2", url: "sketch2/index.html" },
+      { name: "Sketch 2", url: "sketch2/index.html" },
+      { name: "Sketch 2", url: "sketch2/index.html" },
+      { name: "Sketch 2", url: "sketch2/index.html" },
+      { name: "Sketch 2", url: "sketch2/index.html" },
+      { name: "Sketch 2", url: "sketch2/index.html" },
+
       // Add more sketches here
     ];
   
