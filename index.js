@@ -1,7 +1,7 @@
 document.addEventListener("DOMContentLoaded", function() {
     const sketchList = [
       { name: "Sketch 1", url: "sketch1/index.html" },
-      { name: "Sketch 2", url: "sketch2/index.html" },
+      { name: "HSLuv Color Generator", url: "hsluvColorGenerator/index.html" },
       { name: "Sketch 3", url: "sketch2/index.html" },
       { name: "Sketch 4", url: "sketch2/index.html" },
       { name: "Sketch 5", url: "sketch2/index.html" },
