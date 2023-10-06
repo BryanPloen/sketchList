@@ -1,5 +1,5 @@
 function setup() { 
-  createCanvas(800, 500);
+  createCanvas(800, 500, SVG);
 	noStroke();
   
   var g = hsluv.rgbToHsluv([85 / 255, 255 / 255, 0]);
@@ -16,4 +16,8 @@ function setup() {
 		fill(rgb[0] * 255, rgb[1] * 255, rgb[2] * 255);
 		rect(i * 50, 0, 50, 50);
 	}
+
+	save("mySVG.svg"); // give file name
+ 
+  
 } 
