@@ -3,6 +3,7 @@ document.addEventListener("DOMContentLoaded", function() {
       { name: "Random Points", url: "sketch1/index.html" },
       { name: "HSLuv Color Generator", url: "hsluvColorGenerator/index.html" },
       { name: "Procedural Geometric Grid", url: "ProceduralGeometricGrid/index.html" },
+      { name: "Color Interactions", url: "ColorInteractions/index.html" },
       
 
       // Add more sketches here
